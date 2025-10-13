@@ -1,4 +1,4 @@
-![MasterHead]()
+
 <h1 align="center">Hi 👋, I'm Murat Cam</h1>
 Merhaba 👋, ben Murat Cam
 
