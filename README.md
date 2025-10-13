@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Murat Cam</h1>
 Merhaba 👋, ben Murat Cam
 
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+
 Türkiye'den tutkulu bir arayüz geliştiricisi
 
 
