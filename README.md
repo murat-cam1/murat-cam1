@@ -13,12 +13,11 @@ murat-cam1
 
 - 📫 How to reach me **muratcam590@gmail.com**
 
-### Blogs posts### Blog gönderileri
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-Benimle iletişime geç:
+
 
 <p align="left">
 
