@@ -3,7 +3,7 @@
 Merhaba 👋, ben Murat Cam
 
 
-Türkiye'den tutkulu bir arayüz geliştiricisi
+Türkiye'de tutkulu geliştirici
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murat-cam1&label=Profile%20views&color=0e75b6&style=flat" alt="murat-cam1" /> </p>
