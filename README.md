@@ -13,8 +13,7 @@ murat-cam1
 
 - 📫 How to reach me **muratcam590@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-Benimle iletişime geç:
+
 
 <p align="left">
 
