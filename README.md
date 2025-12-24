@@ -13,8 +13,7 @@
 
 - 🎓 **Yönetim Bilişim Sistemleri** öğrencisi olarak, teknolojiyi iş süreçleriyle optimize etmeye odaklanan bir **İş Analisti (Business Analyst)** adayıyım.
 - 📈 Veri analitiği, sistem analizi ve iş süreçlerinin dijital dönüşümü konularında kendimi geliştiriyorum.
-- 🔍 **TÜBİTAK 2209-A** projemde log analiz sistemleri üzerinde çalışarak, karmaşık verilerden anlamlı sonuçlar çıkarma ve hata payını (False Positive) minimize etme deneyimi kazanıyorum.
-- 💡 Teknik yetkinliklerimi (Python, SQL, .NET) iş stratejileriyle birleştirerek katma değer yaratmayı hedefliyorum.
+- 💡 Teknik yetkinliklerimi iş stratejileriyle birleştirerek katma değer yaratmayı hedefliyorum.
 
 ---
 
@@ -29,20 +28,28 @@
 
 ### 🛠️ Yetkinlikler ve Araçlar
 
-**Analiz & Veri Yönetimi**
+**Veri Tabanı & Veri Yönetimi**
 <p align="left">
-  <img src="https://img.shields.io/badge/Business_Analysis-0E75B6?style=flat&logo=analogue&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Visualization-F7931E?style=flat&logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
-**Programlama & Scripting**
+**Backend & Programlama**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+</p>
+
+**Frontend & Web**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
 ---
