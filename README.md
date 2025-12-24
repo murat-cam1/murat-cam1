@@ -13,27 +13,18 @@
 
 - 🎓 **Yönetim Bilişim Sistemleri** öğrencisi olarak, teknolojiyi iş süreçleriyle optimize etmeye odaklanan bir **İş Analisti (Business Analyst)** adayıyım.
 - 📈 Veri analitiği, sistem analizi ve iş süreçlerinin dijital dönüşümü konularında kendimi geliştiriyorum.
+- 🔍 **TÜBİTAK 2209-A** projemde log analiz sistemleri üzerinde çalışarak, karmaşık verilerden anlamlı sonuçlar çıkarma deneyimi kazanıyorum.
 - 💡 Teknik yetkinliklerimi iş stratejileriyle birleştirerek katma değer yaratmayı hedefliyorum.
-
----
-
-### 🐍 GitHub Aktivite Yılanı
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/murat-cam1/murat-cam1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murat-cam1/murat-cam1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/murat-cam1/murat-cam1/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
 ### 🛠️ Yetkinlikler ve Araçlar
 
-**Veri Tabanı & Veri Yönetimi**
+**Veri Tabanı & Yönetimi**
 <p align="left">
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
 **Backend & Programlama**
@@ -49,16 +40,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📊 İstatistikler
+### 📈 GitHub İstatistiklerim
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murat-cam1&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=murat-cam1&show_icons=true&locale=en&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=murat-cam1&show_icons=true&theme=transparent&title_color=0e75b6&text_color=ffffff&icon_color=0e75b6" alt="Murat Cam Stats" />
 </p>
 
 ---
